@@ -1,0 +1,48 @@
+***** HOSTNAME INFORMATION *****
+   Static hostname: ansible-tower
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: 44d7f428da3d4c4487dbbe433de96708
+           Boot ID: c5fa613fa4bd4c6fa7e9c2f1f741ae66
+    Virtualization: vmware
+  Operating System: CentOS Linux 7 (Core)
+       CPE OS Name: cpe:/o:centos:centos:7
+            Kernel: Linux 3.10.0-1160.el7.x86_64
+      Architecture: x86-64
+
+***** KERNEL INFORMATION *****
+3.10.0-1160.el7.x86_64
+
+***** SYSTEM UPTIME AND LOAD *****
+ 21:03:43 up 5 days,  6:19,  4 users,  load average: 0.09, 0.05, 0.05
+
+***** CURRENTLY LOGGED-IN USERS *****
+devops   pts/0        2021-06-03 11:14 (10.200.212.101)
+devops   pts/1        2021-06-03 15:48 (10.200.228.101)
+devops   pts/2        2021-06-03 17:49 (10.200.228.19)
+devops   pts/3        2021-06-03 18:20 (10.200.228.101)
+
+***** CPU INFORMATION *****
+processor	: 0
+cpu MHz		: 2300.000
+processor	: 1
+cpu MHz		: 2300.000
+
+***** USED MEMORY *****
+              total        used        free      shared  buff/cache   available
+Mem:           5966        1106        4073          47         786        4522
+Swap:          6015           0        6015
+
+***** FILE SYSTEM USAGE *****
+Filesystem                              Size  Used Avail Use% Mounted on
+devtmpfs                                2.9G     0  2.9G   0% /dev
+tmpfs                                   3.0G  144K  3.0G   1% /dev/shm
+tmpfs                                   3.0G  9.7M  3.0G   1% /run
+tmpfs                                   3.0G     0  3.0G   0% /sys/fs/cgroup
+/dev/mapper/centos_ansible--tower-root   50G   22G   29G  44% /
+/dev/sda1                              1014M  172M  843M  17% /boot
+/dev/mapper/centos_ansible--tower-home   44G   47M   44G   1% /home
+tmpfs                                   597M   12K  597M   1% /run/user/42
+tmpfs                                   597M     0  597M   0% /run/user/1000
+
+***** Done ******
