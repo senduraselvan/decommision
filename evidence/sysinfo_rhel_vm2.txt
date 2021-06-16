@@ -1,0 +1,41 @@
+***** HOSTNAME INFORMATION *****
+   Static hostname: rhel_vm2
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: 4d9b87464f14486d96f4ee3381bd6649
+           Boot ID: 5a7d868458804c1ea486ed6d825df5a4
+    Virtualization: vmware
+  Operating System: Red Hat Enterprise Linux Server 7.8 (Maipo)
+       CPE OS Name: cpe:/o:redhat:enterprise_linux:7.8:GA:server
+            Kernel: Linux 3.10.0-1127.el7.x86_64
+      Architecture: x86-64
+
+***** KERNEL INFORMATION *****
+3.10.0-1127.el7.x86_64
+
+***** SYSTEM UPTIME AND LOAD *****
+ 18:24:25 up 45 min,  1 user,  load average: 0.00, 0.01, 0.05
+
+***** CURRENTLY LOGGED-IN USERS *****
+devops   pts/0        2021-06-16 18:24 (10.38.218.132)
+
+***** CPU INFORMATION *****
+processor	: 0
+cpu MHz		: 2300.000
+
+***** USED MEMORY *****
+              total        used        free      shared  buff/cache   available
+Mem:           1819         249        1386           9         183        1418
+Swap:          2047           0        2047
+
+***** FILE SYSTEM USAGE *****
+Filesystem             Size  Used Avail Use% Mounted on
+devtmpfs               894M     0  894M   0% /dev
+tmpfs                  910M     0  910M   0% /dev/shm
+tmpfs                  910M  9.9M  900M   2% /run
+tmpfs                  910M     0  910M   0% /sys/fs/cgroup
+/dev/mapper/rhel-root   17G  4.7G   13G  28% /
+/dev/sda1             1014M  183M  832M  19% /boot
+tmpfs                  182M     0  182M   0% /run/user/1001
+
+***** Done ******
